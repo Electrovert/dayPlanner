@@ -3,6 +3,15 @@ body {
     font-size: 16px;
     line-height: 1;
   }
+
+  .jumbotron {
+    background-image: url("./image/609126.jpg");
+  }
+
+  .header {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+  }
   
   textarea{
     background: transparent;
