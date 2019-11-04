@@ -1,5 +1,4 @@
-# dayPlanner
-Created a dynamic day planner that allows entries to be saved on local storage.
+# Day Planner
 <hr>
 
 ## This project contains elements of:
