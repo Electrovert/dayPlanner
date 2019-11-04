@@ -4,14 +4,6 @@ body {
     line-height: 1;
   }
 
-  .jumbotron {
-    background-image: url("./image/609126.jpg");
-  }
-
-  .header {
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: white;
-  }
   
   textarea{
     background: transparent;
@@ -24,10 +16,11 @@ body {
   
   .jumbotron {
     text-align: center;
-    background-color: transparent;
-    color: black;
-    border-radius: 0;
-    border-bottom: 10px solid black;
+    background-image: url("./image/609126.jpg");
+    color:white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    text-shadow: 1px 1px 2px black;
   }
   
   .description{
